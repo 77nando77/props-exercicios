@@ -3,7 +3,7 @@ import { CardVideo } from "./componentes/CardVideos";
 import "./styles.css";
 export default function App() {
   const objeto = {
-    usuario: "Luiz Kessler",
+    usuario: "Niko Virtanen",
     video: "https://i.picsum.photos/id/1024/1920/1280.jpg?hmac=-PIpG7j_fRwN8Qtfnsc3M8-kC3yb0XYOBfVzlPSuVII"
   }
   const objeto2 = {
